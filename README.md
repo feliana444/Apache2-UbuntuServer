@@ -52,7 +52,7 @@ cek ip address menggunakan perintah `ip a` , copy *ip a* pada browser dan nanti 
 2. klik open <br>
 3. connect once <br>
 ![PuTTY](https://github.com/feliana444/Apache2-UbuntuServer/assets/145323449/3c003998-7aaf-45b0-8646-a40667e0ac76)
-3. Ubuntu Dekstop
+### 3. Ubuntu Dekstop
 ```sh
 ssh<nama server>@ip a
 ```
