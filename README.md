@@ -1,7 +1,7 @@
 # Cara Install dan Menampilkan Apache2 di Ubuntu Server 22.04
 Artikel ini akan membahas tentang cara menampilkan apache dan cara remote ke CMD, PuTTY dan Ubuntu Dekstop <br>
 ## 1. Login ke ubuntu server
-## 2. UUpdate dan Upgrade package
+## 2. Update dan Upgrade package
     sudo apt update && sudo apt upgrade
 ## 3. Install Apache2
     sudo apt install apache2
