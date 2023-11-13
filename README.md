@@ -1,5 +1,5 @@
 # Cara Install Apache2 dan Wordpress di Ubuntu Server 22.04
-Artikel ini akan membahas tentang cara menampilkan apache dan cara remote ke CMD, PuTTY dan Ubuntu Dekstop <br>
+
 # Cara Install Apache2
 ## 1. Login ke ubuntu server
 ## 2. Update dan Upgrade package
