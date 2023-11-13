@@ -1,7 +1,7 @@
 # Cara Install Apache2 dan Wordpress di Ubuntu Server 22.04
 
 # Cara Install Apache2
-## 1. Login ke ubuntu server
+## 1. Login ke Ubuntu Server
 ## 2. Update dan Upgrade package
     sudo apt update && sudo apt upgrade
 ## 3. Install Apache2
